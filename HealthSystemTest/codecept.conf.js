@@ -22,6 +22,10 @@ exports.config = {
   include: {
     I: './steps_file.js',
     girisPagePage: "./pages/GirisPage.js",
+    kayitkabulPage: "./pages/kayitkabul.js",
+    hizliAramaFragment: "./fragments/hizliArama.js",
+    kayitKabulFragment: "./fragments/kayitKabul.js",
+    solPanelFragment: "./fragments/solPanel.js",
   },
   name: 'HealthSystemTest'
 }

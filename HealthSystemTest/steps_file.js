@@ -15,7 +15,6 @@ module.exports = function() {
     buttons:{
 
       girisYapBtn: '//div[@id"loginPanel"]//div[@class="login_button"]'
-
     },
 
     getEnvironmentParemeters : function(key) {
@@ -40,7 +39,7 @@ module.exports = function() {
       const tckn = generateTCKN();
       return tckn;
 
-    }
+    },
 
 
   });
