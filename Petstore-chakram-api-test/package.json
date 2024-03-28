@@ -9,7 +9,6 @@
   "directories": {
     "test": "tests"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "mocha tests/ --timeout 90000"
   },
